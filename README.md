@@ -15,7 +15,5 @@ sudo chmod +x main.sh
 ~~~bash
 ./main.sh
 ~~~
-# Images
-![screenshot](Screenshot 2022-03-07 163450.png)
 # Dontating
 BTC n stuff: 3DDxBsJg9oNSGQurv5Wr4sBwbGNXC5d5Wa
