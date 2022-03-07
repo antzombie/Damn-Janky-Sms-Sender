@@ -16,4 +16,8 @@ sudo chmod +x main.sh
 ./main.sh
 ~~~
 # Dontating
-BTC n stuff: 3DDxBsJg9oNSGQurv5Wr4sBwbGNXC5d5Wa
+BTC: 3DDxBsJg9oNSGQurv5Wr4sBwbGNXC5d5Wa
+# Images
+![screenshot](/otherstuff/screenshot.png)
+![gif](/otherstuff/example.gif)
+![phone](/otherstuff/example.png)
