@@ -24,7 +24,7 @@ def main():
     message = input("Message to Target: ")
     requestt = str(f'curl -X POST http://{ip}:9090/{str(location)} -d number={int(number)} -d "message={str(message)}"')
     os.system(str(f"{requestt} > /dev/null 2>&1"))
-    time.sleep(0.5)
+    time.sleep(2)
     print('''
                                                              )
     )      (             )  (  (     (          (         ( /(
