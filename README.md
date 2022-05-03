@@ -13,7 +13,7 @@ sudo chmod +x main.sh
 ~~~
 # Usage
 ~~~bash
-./main.sh
+python3 main.py
 ~~~
 # Dontating
 BTC: 3DDxBsJg9oNSGQurv5Wr4sBwbGNXC5d5Wa
