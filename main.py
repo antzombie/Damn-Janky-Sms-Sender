@@ -6,9 +6,10 @@ import socket
 host = socket.gethostname()
 ip = socket.gethostbyname(host)
 def main():
+    os.system('nodejs textbelt/server/app.js > /dev/null 2>&1 &')
     print(banner.usedbannerr)
     print("   ¯\_(=/)_/¯ I Would put a disclaimer but there is no malicious part in texting right?")
-    print("             ┻━┻ ~ \(°□°)/ ~ ┻━┻  Also @ase3p did this  ┻━┻ ~ \(°□°)/ ~ ┻━┻\n")
+    print("             ┻━┻ ~ \(°□°)/ ~ ┻━┻  Also @allenmcfallen did this  ┻━┻ ~ \(°□°)/ ~ ┻━┻\n")
     print("[01] America")
     print("[02] Canada")
     print("[03] Other")
