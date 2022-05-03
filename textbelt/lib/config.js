@@ -9,11 +9,11 @@ const SMTP_TRANSPORT = {
   // This is a Nodemailer transport. It can either be an SMTP server or a
   // well-known service such as Sengrid, Mailgun, Gmail, etc.
   // See https://nodemailer.com/transports/ and https://nodemailer.com/smtp/well-known/
-  host: 'smtp.example.com',
+  host: 'smtp.gmail.com',
   port: 587,
   auth: {
-    user: 'user@example.com',
-    pass: 'example password 1',
+    user: 'damnjankysmssender@gmail.com',
+    pass: 'odmaqsouatfxqyyn',
   },
   secureConnection: 'false',
   tls: {
@@ -24,7 +24,7 @@ const SMTP_TRANSPORT = {
 module.exports = {
   transport: SMTP_TRANSPORT,
   mailOptions: {
-    from: '"Jane Doe" <jane.doe@example.com>',
+    from: '"John Doe" <damnjankysmssender@gmail.com>',
   },
   debugEnabled: false,
 };
