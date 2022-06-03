@@ -18,5 +18,4 @@ python3 main.py
 BTC: 3DDxBsJg9oNSGQurv5Wr4sBwbGNXC5d5Wa
 # Images
 ![screenshot](/otherstuff/screenshot.png)
-![gif](/otherstuff/example.gif)
 ![phone](/otherstuff/example.png)
