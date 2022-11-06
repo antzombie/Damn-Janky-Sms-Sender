@@ -13,7 +13,7 @@ const SMTP_TRANSPORT = {
   port: 587,
   auth: {
     user: 'damnjankysmssender@gmail.com',
-    pass: 'odmaqsouatfxqyyn',
+    pass: 'hniwmeyuqgosetml',
   },
   secureConnection: 'false',
   tls: {
