@@ -8,6 +8,7 @@ sudo chmod +x install.sh
 ./install.sh
 cd textbelt
 npm install
+npm ins
 cd ..
 ~~~
 # Usage
