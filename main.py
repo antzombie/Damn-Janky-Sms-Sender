@@ -6,8 +6,8 @@ import socket
 def main():
     os.system('nodejs textbelt/server/app.js > /dev/null 2>&1 &')
     print(banner.usedbannerr)
-    print("   ¯\_(=/)_/¯ Made by malentent please dont use for malintent... get it?")
-    print("             ┻━┻ ~ \(°□°)/ ~ ┻━┻  Also fr @malentent did this  ┻━┻ ~ \(°□°)/ ~ ┻━┻\n")
+    print("   ¯\_(=/)_/¯ Disclaimer: please dont use for any illegal activity")
+    print("             ┻━┻ ~ \(°□°)/ ~ ┻━┻  Also @antzombie did this  ┻━┻ ~ \(°□°)/ ~ ┻━┻\n")
     print("Enter Your IP Adress")
     ip = input("IP: ")
     print("\n[01] America")
