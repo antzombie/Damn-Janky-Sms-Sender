@@ -2,7 +2,7 @@
 Is a 100% free and easy python sms sender that uses [textbelt](https://github.com/typpo/textbelt) by @typpo
 # Setup
 ~~~bash
-git clone https://github.com/malentent/Damn-Janky-Sms-Sender/
+git clone https://github.com/antzombie/Damn-Janky-Sms-Sender/
 cd Damn-Janky-Sms-Sender
 sudo chmod +x install.sh
 ./install.sh
